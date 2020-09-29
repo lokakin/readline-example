@@ -1,0 +1,12 @@
+C:\cs2019\ch02\readline1\bin\Debug\readline1.exe.config
+C:\cs2019\ch02\readline1\bin\Debug\readline1.exe
+C:\cs2019\ch02\readline1\bin\Debug\readline1.pdb
+C:\cs2019\ch02\readline1\obj\Debug\readline1.exe
+C:\cs2019\ch02\readline1\obj\Debug\readline1.pdb
+C:\Users\lokak\OneDrive\桌面\readline1\bin\Debug\readline1.exe.config
+C:\Users\lokak\OneDrive\桌面\readline1\bin\Debug\readline1.exe
+C:\Users\lokak\OneDrive\桌面\readline1\bin\Debug\readline1.pdb
+C:\Users\lokak\OneDrive\桌面\readline1\obj\Debug\readline1.csprojAssemblyReference.cache
+C:\Users\lokak\OneDrive\桌面\readline1\obj\Debug\readline1.csproj.CoreCompileInputs.cache
+C:\Users\lokak\OneDrive\桌面\readline1\obj\Debug\readline1.exe
+C:\Users\lokak\OneDrive\桌面\readline1\obj\Debug\readline1.pdb
